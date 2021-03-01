@@ -48,6 +48,12 @@ that they have inputted. This is accomplished by typing 'while guess != number: 
 
 # Finished product and outputs
 
+**Product**
+
+![project 2 code](https://user-images.githubusercontent.com/79774762/109440988-90515900-79f9-11eb-85d9-6c21c185db2d.png)
+
+**Output**
+
 
 
 
