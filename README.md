@@ -62,6 +62,7 @@ that they have inputted. This is accomplished by typing 'while guess != number: 
 - This is sadly not as malleable.
 - It was satisfying to see it work.
 - Both pictures are included in the files.
+- Try to get a nice score!
 - Have a nice day! :D
 
 
