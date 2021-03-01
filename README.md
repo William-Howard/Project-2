@@ -48,13 +48,21 @@ that they have inputted. This is accomplished by typing 'while guess != number: 
 
 # Finished product and outputs
 
-**Product**
+**Product**:
 
 ![project 2 code](https://user-images.githubusercontent.com/79774762/109440988-90515900-79f9-11eb-85d9-6c21c185db2d.png)
 
-**Output**
+**Output**:
+
+![Project 2](https://user-images.githubusercontent.com/79774762/109441075-dc040280-79f9-11eb-9f03-3cc890d25d50.png)
 
 
+# Notes
+
+- This is sadly not as malliable 
+- It was satisfying to see it work
+- Both pictures are included in the files
+- Have a nice day :D
 
 
  
