@@ -59,10 +59,10 @@ that they have inputted. This is accomplished by typing 'while guess != number: 
 
 # Notes
 
-- This is sadly not as malleable 
-- It was satisfying to see it work
-- Both pictures are included in the files
-- Have a nice day :D
+- This is sadly not as malleable.
+- It was satisfying to see it work.
+- Both pictures are included in the files.
+- Have a nice day! :D
 
 
  
